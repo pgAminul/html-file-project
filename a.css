@@ -1,0 +1,16 @@
+#amin{
+   
+    border: 5px;
+    border-width: 300px;
+    border-style: solid;
+    border-radius: 20px;
+    margin: 20px 300px 20px 300px;
+}
+#one{
+    background-image: url("image/Cat\ picturer\ Videos!.png");
+}
+    
+    /* margin-right: 30em;
+    margin-left: 30em;
+    margin-top: 50px;
+    margin-bottom: 50px; */
